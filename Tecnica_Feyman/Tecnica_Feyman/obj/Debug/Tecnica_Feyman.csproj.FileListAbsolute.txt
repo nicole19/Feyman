@@ -1,0 +1,9 @@
+c:\users\samsung\documents\visual studio 2015\Projects\Tecnica_Feyman\Tecnica_Feyman\bin\Debug\Tecnica_Feyman.exe.config
+c:\users\samsung\documents\visual studio 2015\Projects\Tecnica_Feyman\Tecnica_Feyman\bin\Debug\Tecnica_Feyman.exe
+c:\users\samsung\documents\visual studio 2015\Projects\Tecnica_Feyman\Tecnica_Feyman\bin\Debug\Tecnica_Feyman.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\Tecnica_Feyman\Tecnica_Feyman\obj\Debug\Tecnica_Feyman.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2015\Projects\Tecnica_Feyman\Tecnica_Feyman\obj\Debug\Tecnica_Feyman.Form1.resources
+c:\users\samsung\documents\visual studio 2015\Projects\Tecnica_Feyman\Tecnica_Feyman\obj\Debug\Tecnica_Feyman.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2015\Projects\Tecnica_Feyman\Tecnica_Feyman\obj\Debug\Tecnica_Feyman.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2015\Projects\Tecnica_Feyman\Tecnica_Feyman\obj\Debug\Tecnica_Feyman.exe
+c:\users\samsung\documents\visual studio 2015\Projects\Tecnica_Feyman\Tecnica_Feyman\obj\Debug\Tecnica_Feyman.pdb
